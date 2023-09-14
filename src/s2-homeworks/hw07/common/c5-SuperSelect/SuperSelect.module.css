@@ -1,0 +1,22 @@
+.select {
+    padding: 2px 0 5px 10px;
+    border-radius: 2px;
+    border: 1px solid #C2C2C2;
+    background: #FFF;
+    color: #000;
+    font-family: Montserrat, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    outline: none;
+}
+
+.select:focus {
+    border: 1px solid #000;
+}
+
+
+.option:hover {
+    background: #1E90FF;
+}
